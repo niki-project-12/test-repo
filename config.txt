@@ -8,3 +8,7 @@ name=dimi
 power=200
 name=nasko
 power=69
+
+
+
+100-200-300miliona
