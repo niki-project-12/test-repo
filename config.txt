@@ -4,3 +4,5 @@ email=dimi@abv.bg
 name = ani
 power = 300
 email = trea@abv.bg
+name=dimi
+power=200
