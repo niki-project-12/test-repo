@@ -1,3 +1,6 @@
 name=niki
 power=100
 email=dimi@abv.bg
+name = ani
+power = 300
+email = trea@abv.bg
