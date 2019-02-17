@@ -1,2 +1,3 @@
 name=niki
 power=100
+email=dimi@abv.bg
