@@ -6,3 +6,5 @@ power = 300
 email = trea@abv.bg
 name=dimi
 power=200
+name=nasko
+power=69
