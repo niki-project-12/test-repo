@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is nikolay hdtrjtjetkte7k76ld6
+=======
+nikolay
+>>>>>>> eb0dab7ce49b94a1c4463665e7312e7d78d9cf81
